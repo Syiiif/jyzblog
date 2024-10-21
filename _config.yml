@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "晦涩弗里曼的博客"
+title                    : "蒋yj的博客"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "晦涩弗里曼"
+name                     : "jyj"
 description              : "一个致力于探索的有趣网站"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -106,7 +106,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "晦涩弗里曼"
+  name             : "jyj"
   avatar           : "/assets/images/of.jpg"
   bio              : "**漫长的旅途**，比你想的还要长。"
   location         : "黑山基地"
